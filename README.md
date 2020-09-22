@@ -10,7 +10,10 @@ This is a collection of public memos written by celebrated businesspeople. Many 
 
 You can submit a PR to contribute to this repository. Please follow the existing structure:
 
-1. Name the top-level directory after the author
-2. Include the memo documents themselves inside the directory, ideally as PDF
-3. Indicate the year of publication of the memos, either in the filename or parent directory name
-4. Include (or update) a file called `links.csv` in the author's directory that maps the documents you've included to their primary source URL. The header row should be `title,link`.
+```
+/Example Person     # <-- top-level directory with author's name
+  2000.pdf          # <-- document named for year of publication
+  2001-first.pdf    # <-- or like this
+  2001-second.pdf
+  links.csv         # <-- CSV file with title,link pairs mapping filenames to primary source URL
+```
