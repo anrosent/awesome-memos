@@ -1,4 +1,4 @@
-# awesome-memos
+# ✨ awesome-memos 📃
 
 This is a collection of public memos written by celebrated businesspeople. Many podcasts, blogs, and tweets refer to these memos as examples of clear strategic thinking and communication, and this repository aggregates them for no-hassle consumption. Inside, you will find:
 
